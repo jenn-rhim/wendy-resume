@@ -1,0 +1,74 @@
+/*Use colorpicker.com to change the background color of the page*/
+
+body {
+  background-color:#444747;
+  color:#ffffff;
+  font-family:Helvetica, sans-serif;
+
+}
+
+.container {
+  width:600px;
+  border:#cccccc 3px solid;
+  margin-left:auto;
+  margin-right:auto;
+  padding:45px;
+
+}
+
+.txt-center {
+  text-align:center;
+}
+
+.italic-text {
+  font-style:italic;
+}
+
+
+.nav li{
+  list-style:none;
+  display:inline;
+}
+
+.nav {
+  padding:0;
+  /*reset*/
+}
+
+a {
+  color:#5BC9A8;
+}
+
+.divider {
+  border-top:#cccccc 3px solid;
+  margin-top:30px;
+  margin-bottom:30px;
+
+}
+
+img {
+  float:right;
+  margin: 0 0 20px 20px;
+  border:#999999 1px solid;
+  padding:5px;
+}
+
+ul.square {
+  list-style-type: square;
+}
+
+.list-break li {
+  margin-top:15px;
+}
+
+.gray {
+  color:#b9b9b9
+}
+
+.extra-leading {
+  line-height:1.5em;
+}
+
+.georgia-font {
+  font-family:Georgia, serif;
+}
